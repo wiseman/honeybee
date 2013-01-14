@@ -1,6 +1,6 @@
 # Honeybee
 
-An automated raider for
+An automated raider bot for
 [travian](http://en.wikipedia.org/wiki/Travian), the massively
 multiplayer browser-based strategy game.
 
